@@ -1,2 +1,11 @@
 Bootstrap: shub
 From: RickRilled/StudentRobach/SingularityTest
+
+%help
+	For more inforamtion, go somewhere else
+
+%files
+	HelloWorld.py /
+
+%runscript
+	python /HelloWorld.py	
