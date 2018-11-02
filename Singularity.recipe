@@ -4,6 +4,10 @@ From: RickRilled/StudentRobach/SingularityTest
 %help
 	For more inforamtion, go somewhere else
 
+%labels
+	CREATOR Royce
+
+
 %files
 	HelloWorld.py /
 
